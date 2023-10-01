@@ -31,10 +31,23 @@ dependencies:
   flutter:
     sdk: flutter
 
-
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^1.0.2
+  http: ^1.1.0
+  get: ^4.6.6
+  shared_preferences: ^2.2.1
+  google_fonts: ^6.1.0
+  font_awesome_flutter: ^10.5.0
+  intl: ^0.18.1
+  geolocator: ^10.1.0
+  geocoding: ^2.1.0
+  anim_search_bar: ^2.0.3
+
+  modal_progress_hud_nsn:
+    git:
+      url: https://github.com/dravya08/custom_progress_hud_eas.git
+
 
 dev_dependencies:
   flutter_test:
